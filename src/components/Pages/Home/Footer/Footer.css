@@ -1,0 +1,33 @@
+.footer-area{
+    background-color: #191919;
+}
+.footer-area .nav-link{
+    color: #fff;
+}
+.footer-logo img{
+    width: 100px;
+}
+.f-logo {
+    border: 3px solid white;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 15px;
+
+}
+.icon {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #fff;
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    font-size: 14px;
+    transition: .3s;
+    line-height: 14px;
+
+  }
+  .icon:hover {
+    background-color: #F69323;
+    color: #fff;
+  }

@@ -1,0 +1,10 @@
+.progress-bar {
+    background-color: transparent;
+    height: 30px;
+}
+.inner-rect-bar {
+    background: #FF8F00 !important;
+}
+.progress-about p{
+    font-size: 20px;
+}
